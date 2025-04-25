@@ -1,0 +1,23 @@
+{
+  "receitas": [
+    {
+      "id": 1,
+      "nome": "Pizza",
+      "descricao": "Pizza de calabresa com cebola",
+      "ingredientes": [
+        "Massa de pizza",
+        "Molho de tomate",
+        "Queijo muçarela",
+        "Calabresa",
+        "Cebola"
+      ]
+    },
+    {
+      "id": 2,
+      "nome": "Hamburguer",
+      "descricao": "Hamburguer com queijo e bacon",
+      "ingredientes": ["Pão de hamburguer", "Carne moída", "Queijo cheddar", "Bacon", "Alface"],
+      "preco": 19.9
+    }
+  ]
+}
